@@ -8,9 +8,12 @@
 const justin = {
   code: [Javascript, Ruby, Html, CSS],
   learning: [Python, Typescript],
-  tools: [React, Vue, Rails, Node, Styled-Component, Gatsby, Sanity.io]
+  frontEnd: [React, Vue, Styled-Component, Gatsby, Next.js],
+  backEnd: [Node, Sanity.io, Rails]
 }
 ```
+Currently explore different frameworks and building e-commerce porjects. Loving teh developement experience of React and Vue with hot-loading capability. 
+
 #### Thanks for visiting
 
 <em>Only just started my coding journey in 2020 but constantly learning and exploring the endless possiblities of the tech world!!</em>
