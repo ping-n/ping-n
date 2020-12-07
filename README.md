@@ -5,7 +5,7 @@
 
 ```javascript
 
-const ping = {
+const justin = {
   code: [Javascript, Ruby, Html, CSS],
   learning: [Python, Typescript],
   tools: [React, Vue, Rails, Node, Styled-Component, Gatsby, Sanity.io]
