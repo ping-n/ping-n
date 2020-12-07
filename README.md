@@ -8,7 +8,7 @@
 const ping = {
   code: [Javascript, Ruby, Html, CSS],
   learning: [Python, Typescript],
-  tools: [React, Vue, Rails, Node, Style-Component]
+  tools: [React, Vue, Rails, Node, Styled-Component, Gatsby, Sanity.io]
 }
 ```
 #### Thanks for visiting
