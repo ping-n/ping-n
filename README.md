@@ -12,7 +12,7 @@ const justin = {
   backEnd: [Node, Sanity.io, Rails]
 }
 ```
-Currently explore different frameworks and building e-commerce porjects. Loving the developement experience of React and Vue with hot-loading capability. I am also learning python with the 100 days of python from [Angela Yu's 100 days of code course](https://www.udemy.com/course/100-days-of-code/)
+Currently explore different frameworks and building e-commerce projects. Loving the developement experience of React and Vue with hot-loading capability. I am also learning python with the 100 days of python from [Angela Yu's 100 days of code course](https://www.udemy.com/course/100-days-of-code/)
 
 #### Thanks for visiting
 
