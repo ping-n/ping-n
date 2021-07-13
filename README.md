@@ -1,6 +1,6 @@
 ### Hi I'm Justin 👋
 
-[![Linkedin: ping-nge](https://img.shields.io/badge/-PingNge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ping-nge/)](https://www.linkedin.com/in/ping-nge/)
+[![Linkedin: ping-nge](https://img.shields.io/badge/-Justin Nge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ping-nge/)](https://www.linkedin.com/in/ping-nge/)
 
 ```javascript
 
