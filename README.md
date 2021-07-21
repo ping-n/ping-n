@@ -13,6 +13,8 @@ const justin = {
 ```
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ping-n)](https://github.com/ping-n/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ping-n&layout=compact)](https://github.com/ping-n)
 
 #### Thanks for visiting
 
