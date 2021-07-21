@@ -12,6 +12,8 @@ const justin = {
 }
 ```
 
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ping-n)](https://github.com/ping-n/github-readme-stats)
+
 #### Thanks for visiting
 
 <em>Only just started my coding journey in 2020 but constantly learning and exploring the endless possiblities of the tech world!!</em>
